@@ -16,3 +16,6 @@
 [submodule "webdev_lab5"]
 	path = webdev_lab5
 	url = https://github.com/starteas/webdev_lab5
+[submodule "webdev_lab6"]
+	path = webdev_lab6
+	url = https://github.com/starteas/webdev_lab6
